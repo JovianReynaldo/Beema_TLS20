@@ -1,4 +1,4 @@
-<h1> Kelompok Beema TLS 2020 </h1>
+<h3> Kelompok Beema TLS 2020 </h3>
 <br/> - Adek Akbar Zahid
 <br/> - Alphonsus Jovian Joy Reynaldo
 <br/> - Athar Rosyad Partadireja
