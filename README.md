@@ -1,10 +1,8 @@
-# Beema_TLS20
-
-<h1> Kelompok Beema </h1>
-- Adek Akbar Zahid
-- Alphonsus Jovian Joy Reynaldo
-- Athar Rosyad Partadireja
-- Ghani Mukti Annakhael
-- Muhammad Alvin
-- Muhammad Farras Ilhami 
-- Raihan Ananda
+<h1> Kelompok Beema TLS 2020 </h1>
+<br/> - Adek Akbar Zahid
+<br/> - Alphonsus Jovian Joy Reynaldo
+<br/> - Athar Rosyad Partadireja
+<br/> - Ghani Mukti Annakhael
+<br/> - Muhammad Alvin
+<br/> - Muhammad Farras Ilhami 
+<br/> - Raihan Ananda
