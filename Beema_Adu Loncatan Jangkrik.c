@@ -6,7 +6,6 @@ int X1, X2;
 int V1, V2;
 int syarat1, syarat2, syarat3;
 int hasil1, hasil2;
-int jumlah_lompatan = 1;
 int status;
 	
 int cek_lompatan();	
@@ -51,7 +50,6 @@ int cek_lompatan(){
 			break;
 		}
 		
-		jumlah_lompatan++;
 		hasil1 = hasil1+V1;
 		hasil2 = hasil2+V2;
 
