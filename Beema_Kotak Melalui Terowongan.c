@@ -29,7 +29,7 @@ int main(){
 		if(kotak[i].tinggi < 41){
 		   kotak[i].volume = kotak[i].panjang * kotak[i].lebar * kotak[i].tinggi;
 			} else {
-		   kotak[i].volume=999;
+		   kotak[i].volume=0;
 		}
 	}
 
@@ -41,7 +41,7 @@ int main(){
 	// data output, perulangan sebanyak jumlah n dengan variabel i sebagai n-ke
 	// kemudian mencetak hasil volume ketika volume tidak bernilai 999
 	for(int i = 1; i <= n ; i++){
-		if(kotak[i].volume != 999 )printf("\n kotak ke %d: %d", i,kotak[i].volume);
+		if(kotak[i].volume != 0 )printf("\n kotak ke %d: %d", i,kotak[i].volume);
 	}
 
 
